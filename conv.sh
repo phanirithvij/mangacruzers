@@ -9,7 +9,7 @@ then
 	t=$(echo $i | rev | cut -d '.' -f1 | rev)
 	if [[ $t != "jng" ]]
 	then
-	echo mv $i $n.jpg
+	mv $i $n.jpg
 	fi
 fi
 if [[ $typ == "PNG" ]]
@@ -19,6 +19,6 @@ then
 	t=$(echo $i | rev | cut -d '.' -f1 | rev)
 	if [[ $t != "png" ]]
 	then
-	echo mv $i $n.png
+	mv $i $n.png
 	fi
 fi

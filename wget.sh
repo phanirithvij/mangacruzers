@@ -16,7 +16,7 @@ do
 	for j in $(cat imagelinks.txt)
 	do
 		#echo $j
-		wget -q --show-progress $j
+		wget -c -q --show-progress $j
 		ord=$(echo $j | rev | cut -d "/" -f1 | rev)
 		echo $ord >> order.txt
 	done	
