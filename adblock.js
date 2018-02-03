@@ -1,10 +1,27 @@
 // ==UserScript==
-// @name         ReadOnepiece Adblocker
-// @namespace    http://tampermonkey.net/
+// @name         ANimecruzermanga adblock
+// @namespace    google.com
 // @version      0.1
-// @description  Block ads in animecruzers related websites
+// @description  googleadblock
 // @author       Phani Rithvij
-// @match        http://ww3.readonepiece.com/chapter/*
+// @match        *.readshokugeki.com/*
+// @match        *.tokyoghoulre.com/*
+// @match        *.readnoblesse.com/*
+// @match        *.readkingdom.com/*
+// @match        *.readonepiece.com/*
+// @match        *.readhaikyuu.com/*
+// @match        *.readmha.com/*
+// @match        *.manga.watchoverlord2.com/*
+// @match        *.read7deadlysins.com/*
+// @match        *.readblackclover.com/*
+// @match        *.readfairytail.com/*
+// @match        *.readgintama.com/*
+// @match        *.readopm.com/*
+// @match        *.readnaruto.com/*
+// @match        *.readbleachmanga.com/*
+// @match        *.readsnk.com/*
+// @match        *.readberserk.com/*
+// @match        *.dbsmanga.com/*
 // @run-at       document-end
 // @grant        GM_deleteValue
 // @grant        GM_setValue
@@ -23,4 +40,3 @@
         }
         removeElementsByClass("pages__ad");
         removeElementsByTag("center");
-
