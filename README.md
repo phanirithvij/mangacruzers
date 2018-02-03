@@ -5,40 +5,40 @@ mangadownloader from sites like http://ww1.readshokugeki.com/
 Hopefully it works
 
 
-Manga			Website
+[ReadShokugeki.com](http://readshokugeki.com/)
 
-Shokugeki no Soma	ReadShokugeki.com
+[Tokyoghoulre.com](http://tokyoghoulre.com/)
 
-Tokyo Ghoul re		Tokyoghoulre.com
+[Readnoblesse.com](http://readnoblesse.com/)
 
-Noblesse		Readnoblesse.com
+[Readkingdom.com](http://readkingdom.com/)
 
-Kingdom			Readkingdom.com
+[ReadOnePiece.com](http://readonepiece.com/)
 
-One Piece		ReadOnePiece.com
+[ReadHaikyuu.com](http://readhaikyuu.com/)
 
-Haikyuu!!		ReadHaikyuu.com
+[ReadMHA.com](http://readmha.com/)
 
-My Hero Academia	ReadMHA.com
+[Manga.watchoverlord2.com](http://manga.watchoverlord2.com/)
 
-Overlord		Manga.watchoverlord2.com
+[Read7DeadlySins.com](http://read7deadlysins.com/)
 
-7 Deadly Sins		Read7DeadlySins.com
+[ReadBlackClover.com](http://readblackclover.com)
 
-Black Clover		ReadBlackClover.com
+[ReadFairyTail.com](http://readfairytail.com)
 
-Fairy Tail		ReadFairyTail.com
+[ReadGintama.com](http://readgintama.com)
 
-Gintama			ReadGintama.com
+[readOPM.com](http://readopm.com)
 
-One Punch Man		readOPM.com
+[ReadNaruto.com](http://readnaruto.com)
 
-Naruto			ReadNaruto.com
+[ReadBleachManga.com](http://readbleachmanga.com)
 
-Bleach			ReadBleachManga.com
+[ReadSNK.com](http://readsnk.com)
 
-Shingeki no Kyojin	ReadSNK.com
+[ReadBerserk.com](http://readberserk.com)
 
-Berserk			ReadBerserk.com
+[DBSmanga.com](http://dbsmanga.com)
 
-Dragon Ball Super	DBSmanga.com
+
